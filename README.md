@@ -1,4 +1,12 @@
+<!-- markdownlint-disable no-trailing-punctuation -->
 # What is Ansible Workspace Deploy WordPress Plugin?
+<!-- markdownlint-enable no-trailing-punctuation -->
+
+## No longer maintained
+
+@see [Ansible Workspace](https://hub.docker.com/r/futureys/ansible-workspace)
+
+---
 
 [Ansible Workspace](https://hub.docker.com/r/futureys/ansible-workspace) for deploying WordPress Plugin from Git repository.
 
